@@ -1,2 +1,1 @@
 # architectureBlog
-CSS Grid codecademy
